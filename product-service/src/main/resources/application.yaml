@@ -11,3 +11,7 @@ spring:
       ddl-auto: update
     show-sql: true
 
+jwt:
+  secret: hiXrZjUrAtckOkPfaybT2CZ5+q2rF/h+X3AVXc9+vFQ=
+  expiration: 1800000
+
